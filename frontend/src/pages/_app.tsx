@@ -1,4 +1,4 @@
-import '../styles/global.css';
+import '../../app/globals.css';
 import '@rainbow-me/rainbowkit/styles.css';
 import type { AppProps } from 'next/app';
 import { useRouter } from 'next/router';
