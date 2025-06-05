@@ -1,0 +1,1 @@
+forge create ./src/StakeTask.sol:StakeTask --account ff80 --broadcast
