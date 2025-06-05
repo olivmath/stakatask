@@ -6,7 +6,7 @@ import { useRouter } from 'next/router';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { WagmiProvider } from 'wagmi';
 import { RainbowKitProvider, type Locale } from '@rainbow-me/rainbowkit';
-import { config } from '../wagmi';
+import { config } from '@/config/wagmi';
 
 
 

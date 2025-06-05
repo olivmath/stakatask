@@ -11,8 +11,6 @@ const Home: NextPage = () => {
       }}
     >
       <ConnectButton />
-      <div className="bg-primary text-primary-foreground p-4 rounded-lg">
-      </div>
     </div>
   );
 };
